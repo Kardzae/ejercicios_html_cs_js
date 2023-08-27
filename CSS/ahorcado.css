@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.letra{
+    display: flex;
+}
+
+.visible{
+    visibility: visible;
+}
+
+.invisible{
+    visibility: hidden;
+}
